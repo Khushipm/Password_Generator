@@ -1,4 +1,5 @@
 # Password_Generator
+Link of the project: https://khushipm.github.io/Password_Generator/
 - It generates 15digit passwords
 - It includes alphabets, numbers as well as special characters.
 
